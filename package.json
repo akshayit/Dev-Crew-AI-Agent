@@ -1,0 +1,25 @@
+{
+  "name": "devcrew",
+  "version": "0.1.0",
+  "description": "Plug-and-play AI dev crew for Claude Code and GitHub Copilot: planner, builders, tester and reviewer agents with a file-based sprint workflow.",
+  "type": "module",
+  "bin": {
+    "devcrew": "bin/devcrew.mjs"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "claude-code",
+    "github-copilot",
+    "ai-agents",
+    "agile",
+    "sprint",
+    "developer-tools"
+  ],
+  "license": "MIT"
+}
