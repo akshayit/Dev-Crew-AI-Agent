@@ -1,4 +1,4 @@
-# devcrew
+# Devcrew
 
 **A plug-and-play AI dev crew for Claude Code and GitHub Copilot.**
 One command drops a planner, backend and frontend engineers, a tester and a reviewer into any repo, plus a file-based sprint workflow so you can deliver something demo-able every week.
